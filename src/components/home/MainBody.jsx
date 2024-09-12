@@ -22,7 +22,7 @@ const MainBody = React.forwardRef(
               className="border border-secondary rounded-circle"
               src={link}
               alt="profilepicture"
-              width={375}
+              width={355}
               height={375}
             /> <br/>
             {title}

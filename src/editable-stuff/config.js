@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Ellis",
   middleName: "",
   lastName: "Rugazoora",
-  message: " Passionate about changing the world with technology. ",
+  message: "<Welcome!> Passionate about changing the world with technology. </Welcome!>",
   icons: [
     {
       image: "fa-github",
@@ -51,11 +51,11 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/hashirshoaeb.png"),
+  imageLink: require("../editable-stuff/Headshot.png"),
   imageSize: 375,
   message:
-    "My name is Hashir Shoaib. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+    "Welcome to my portfolio! I’m Ellis Rugazoora, a Mechanical Engineering graduate from Lehigh University. I’m passionate about using technology to enhance human productivity and fulfillment. I love connecting people, building innovative solutions, and creating meaningful experiences through tech. Here, you’ll find projects that reflect my commitment to designing systems that streamline operations and improve lives. Thanks for visiting—I hope you enjoy exploring my work!",
+  resume: "https://drive.google.com/file/d/1HM-Be1c1jAFmE9mmkrE8rT1YSlaFaAp-/view?usp=drive_link",
 };
 
 // PROJECTS SECTION
@@ -66,7 +66,7 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "hashirshoaeb", //i.e."johnDoe12Gh"
+  gitHubUsername: "ellisrugazoora", //i.e."johnDoe12Gh"
   reposLength: 4,
   specificRepos: [],
 };
@@ -127,7 +127,7 @@ const getInTouch = {
   heading: "Get In Touch",
   message:
     "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "hashirshoaeb@gmail.com",
+  email: "ellisrgrz@gmail.com",
 };
 
 const experiences = {
