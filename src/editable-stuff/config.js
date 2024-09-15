@@ -13,24 +13,24 @@ const mainBody = {
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/hashirshoaeb",
+      url: "https://github.com/ellisrugazoora",
     },
     {
       image: "fa-facebook",
-      url: "https://www.facebook.com/hashirshoaeb",
+      url: "https://www.facebook.com/ellis.rugazoora",
     },
-    {
-      image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
-    },
+    // {
+    //   image: "fa-instagram",
+    //   url: "https://www.instagram.com/hashirshoaeb/",
+    // },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/hashirshoaeb/",
+      url: "https://www.linkedin.com/in/ellisrugazoora/",
     },
-    {
-      image: "fa-twitter",
-      url: "https://www.twitter.com/hashirshoaeb/",
-    },
+    // {
+    //   image: "fa-twitter",
+    //   url: "https://www.twitter.com/hashirshoaeb/",
+    // },
   ],
 };
 
@@ -67,8 +67,8 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "ellisrugazoora", //i.e."johnDoe12Gh"
-  reposLength: 4,
-  specificRepos: [],
+  reposLength: 1,
+  specificRepos: ["Insurance_billing", "Allergy-report-app", "mogas-lobp-supply"],
 };
 
 // Leadership SECTION
